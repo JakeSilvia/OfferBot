@@ -1,6 +1,6 @@
 # OfferBot
 
-###Files: 
+### Files: 
 - `config.json`
   The configuration file in *JSON format* for the different search terms and parameters to look through offerup. This can take an infinite list of search objects but is only restricted on filters that are taken as url parameters
 
