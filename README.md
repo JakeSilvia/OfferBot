@@ -1,6 +1,6 @@
 # OfferBot
 
-#Description:
+# Description:
 
 Have you ever wanted a bot that can dynamically search OfferUp? What if it can parse it into a spreadsheet? Or even send you a text message?
 **Well look no further**
