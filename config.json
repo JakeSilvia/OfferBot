@@ -1,0 +1,11 @@
+[
+  {
+    "q": "iphone+x",
+    "price_min": "250",
+    "price_max": "600"
+  },{
+    "q": "iphone+10",
+    "price_min": "250",
+    "price_max": "600"
+  }
+]
